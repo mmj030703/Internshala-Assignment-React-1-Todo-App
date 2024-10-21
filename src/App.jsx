@@ -8,7 +8,7 @@ function App() {
     const [todos, setTodos] = useState([]);
 
     return (
-        <section className="bg-sky-950 min-h-screen flex flex-col items-center py-10">
+        <section className="bg-sky-950 min-h-screen px-3 flex flex-col items-center py-10">
             <Header />
             <TodoInput setTodos={setTodos} />
             <TodoList setTodos={setTodos} todos={todos} />

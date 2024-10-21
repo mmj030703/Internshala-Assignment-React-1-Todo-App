@@ -49,7 +49,7 @@ function TodoItem({ setTodos, todos, todo }) {
                 readOnly={editEnabled ? false : true}
                 value={todoInputValue}
                 onChange={(e) => setTodoInputValue(e.target.value)}
-                className={`w-full outline-none py-1 ps-2 pe-3 bg-slate-300 rounded-sm ${todo?.isCompleted ? "bg-green-500" : ""}`}
+                className={`w-full outline-none py-1 ps-2 pe-3 bg-slate-300 rounded-sm ${todo?.isCompleted ? "bg-green-400" : ""}`}
             />
             {
                 !editEnabled ?
