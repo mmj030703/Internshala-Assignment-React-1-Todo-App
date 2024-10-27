@@ -85,7 +85,7 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-[Screenshots](https://github.com/mmj030703/Internshala-JavaScript-Project-1---Weather-Application/wiki/Screenshots-of-the-App)
+[Screenshots](https://github.com/mmj030703/Internshala-Assignment-React-1-Todo-App/wiki/Screenshots-of-the-App)
 
 ---
 
